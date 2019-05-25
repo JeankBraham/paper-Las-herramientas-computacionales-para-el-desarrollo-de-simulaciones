@@ -1,2 +1,2 @@
 # paper-Las-herramientas-computacionales-para-el-desarrollo-de-simulaciones
-paper presentado a Gilberto Vargas Cano
+Paper de los diferentes softwares de simulación presentado a Jose Gilberto Vargas Cano
